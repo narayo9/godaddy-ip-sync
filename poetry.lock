@@ -121,7 +121,7 @@ testing = ["argcomplete", "hypothesis (>=3.56)", "mock", "nose", "requests", "xm
 
 [[package]]
 name = "python-discord-logger"
-version = "1.0.0"
+version = "1.2.0"
 description = ""
 category = "main"
 optional = false
@@ -172,7 +172,7 @@ socks = ["PySocks (>=1.5.6,!=1.5.7,<2.0)"]
 [metadata]
 lock-version = "1.1"
 python-versions = "^3.9"
-content-hash = "614717ca32970f89833186506cb6fc9912ca708e7d78f05f51600c1482b5c33d"
+content-hash = "1d13d3c9f5f8d7a2087194be3a6363fa982072308432bec54267be1b444f5f6d"
 
 [metadata.files]
 atomicwrites = [
@@ -224,8 +224,8 @@ pytest = [
     {file = "pytest-6.2.4.tar.gz", hash = "sha256:50bcad0a0b9c5a72c8e4e7c9855a3ad496ca6a881a3641b4260605450772c54b"},
 ]
 python-discord-logger = [
-    {file = "python-discord-logger-1.0.0.tar.gz", hash = "sha256:b7badfee43a70a083c959f0d74639c4c60872908711928d4264e19c5d47ebcf0"},
-    {file = "python_discord_logger-1.0.0-py3-none-any.whl", hash = "sha256:743d8cdc7e421794959ae5ee9cca07a2a91ce645e74cb77355991a8014152d04"},
+    {file = "python-discord-logger-1.2.0.tar.gz", hash = "sha256:ea7e7f40568f19f22a0a6bca794ade8beaabd13c5392301a62f8f1a33b41afec"},
+    {file = "python_discord_logger-1.2.0-py3-none-any.whl", hash = "sha256:ef6e20aa83d59c8281e753208472a4bc5740ca473886f1d97d9528a37d8d078a"},
 ]
 requests = [
     {file = "requests-2.25.1-py2.py3-none-any.whl", hash = "sha256:c210084e36a42ae6b9219e00e48287def368a26d03a048ddad7bfee44f75871e"},

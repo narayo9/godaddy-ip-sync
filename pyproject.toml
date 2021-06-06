@@ -6,8 +6,8 @@ authors = ["Chanuk Kim <cksdnr987@gmail.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.9"
-python-discord-logger = "^1.0.0"
 requests = "^2.25.1"
+python-discord-logger = "1.2.0"
 
 [tool.poetry.dev-dependencies]
 pytest = "^6.2.4"
