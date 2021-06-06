@@ -30,7 +30,7 @@ if __name__ == "__main__":
     )
     parser.add_argument("--webhook-url", "-U", help="Webhook url to log.")
     parser.add_argument("--webhook-user-id", help="Webhook user id to be tagged.")
-    parser.add_argument("--loglevel", help="Set logger level", default="DEBUG")
+    parser.add_argument("--loglevel", help="Set logger level", default="ERROR")
 
     args = parser.parse_args()
 
